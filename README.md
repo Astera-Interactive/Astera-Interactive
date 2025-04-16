@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Astera-Interactive
+- 👋 Hi, we're @Astera-Interactive, a small game studio!
 - 👀 I’m interested in making some awesome space games
 - 🌱 I’m currently learning how to make said games 😉
 - ⚡ Fun fact: our studio was created based off one simple tweet!
